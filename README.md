@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # image-uploader-tutorial
 # image-uploader-yotube-setup
 # react-image-practice
+# react-image-practice
