@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# This project is an exercise in working with Firebase.
+https://www.youtube.com/watch?v=_PZ1kCjoiSk&t=1258s
+
 ## Available Scripts
 
 In the project directory, you can run:
